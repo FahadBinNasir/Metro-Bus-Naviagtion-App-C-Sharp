@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\metro app\\shortest path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\shortest path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|d:\\university\\dsa lab\\vstudio\\dsa project\\metro app\\metro app\\metro app\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|d:\\university\\dsa lab\\vstudio\\dsa project\\metro app\\metro app\\metro app\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Metro App||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\metro app\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\metro app\\choices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\choices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\metro app\\stations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\stations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\metro app\\shortest path.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\shortest path.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\metro app\\shortest path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\shortest path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\metro app\\dijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\dijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\metro app\\reciept generation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\reciept generation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\metro app\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\metro app\\stations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\stations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\metro app\\reciept generation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\reciept generation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\metro app\\choices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\choices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\metro app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\metro app\\reciept generation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\reciept generation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\metro app\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\metro app\\welcome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|solutionrelative:metro app\\welcome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF0B2D3-A22B-489E-8BA0-CF1AA5C7B274}|Metro App\\Metro App.csproj|d:\\university\\dsa lab\\vstudio\\dsa project\\metro app\\metro app\\metro app\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|984ae51a-4b21-44e7-822c-dd5e046893ef"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shortest Path.cs",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Shortest Path.cs",
+              "RelativeDocumentMoniker": "Metro App\\Shortest Path.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Shortest Path.cs",
+              "RelativeToolTip": "Metro App\\Shortest Path.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAawGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:50:41.157Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\App.config",
+              "RelativeDocumentMoniker": "Metro App\\App.config",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\App.config",
+              "RelativeToolTip": "Metro App\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-29T21:26:01.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shortest Path.cs [Design]",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Shortest Path.cs",
+              "RelativeDocumentMoniker": "Metro App\\Shortest Path.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Shortest Path.cs [Design]",
+              "RelativeToolTip": "Metro App\\Shortest Path.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:42:57.732Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Welcome.cs",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Welcome.cs",
+              "RelativeDocumentMoniker": "Metro App\\Welcome.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Welcome.cs",
+              "RelativeToolTip": "Metro App\\Welcome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T04:59:32.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shortest Path.Designer.cs",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Shortest Path.Designer.cs",
+              "RelativeDocumentMoniker": "Metro App\\Shortest Path.Designer.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Shortest Path.Designer.cs",
+              "RelativeToolTip": "Metro App\\Shortest Path.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:33:28.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stations.cs [Design]",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Stations.cs",
+              "RelativeDocumentMoniker": "Metro App\\Stations.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Stations.cs [Design]",
+              "RelativeToolTip": "Metro App\\Stations.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:40:44.367Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Choices.cs [Design]",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Choices.cs",
+              "RelativeDocumentMoniker": "Metro App\\Choices.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Choices.cs [Design]",
+              "RelativeToolTip": "Metro App\\Choices.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T05:10:31.023Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Welcome.cs [Design]",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Welcome.cs",
+              "RelativeDocumentMoniker": "Metro App\\Welcome.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Welcome.cs [Design]",
+              "RelativeToolTip": "Metro App\\Welcome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T04:59:18.496Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Metro App",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Metro App.csproj",
+              "RelativeDocumentMoniker": "Metro App\\Metro App.csproj",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Metro App.csproj",
+              "RelativeToolTip": "Metro App\\Metro App.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-29T16:16:45.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reciept generation.cs [Design]",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Reciept generation.cs",
+              "RelativeDocumentMoniker": "Metro App\\Reciept generation.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Reciept generation.cs [Design]",
+              "RelativeToolTip": "Metro App\\Reciept generation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T01:43:56.087Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dijkstra.cs",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Dijkstra.cs",
+              "RelativeDocumentMoniker": "Metro App\\Dijkstra.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Dijkstra.cs",
+              "RelativeToolTip": "Metro App\\Dijkstra.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T03:34:37.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Map.cs [Design]",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Map.cs",
+              "RelativeDocumentMoniker": "Metro App\\Map.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Map.cs [Design]",
+              "RelativeToolTip": "Metro App\\Map.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:42:05.325Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Stations.cs",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Stations.cs",
+              "RelativeDocumentMoniker": "Metro App\\Stations.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Stations.cs",
+              "RelativeToolTip": "Metro App\\Stations.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAApwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:48:08.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Reciept generation.cs",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Reciept generation.cs",
+              "RelativeDocumentMoniker": "Metro App\\Reciept generation.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Reciept generation.cs",
+              "RelativeToolTip": "Metro App\\Reciept generation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T01:47:26.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Choices.cs",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Choices.cs",
+              "RelativeDocumentMoniker": "Metro App\\Choices.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Choices.cs",
+              "RelativeToolTip": "Metro App\\Choices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T05:11:12.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Program.cs",
+              "RelativeDocumentMoniker": "Metro App\\Program.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Program.cs",
+              "RelativeToolTip": "Metro App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:25:21.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Reciept generation.Designer.cs",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Reciept generation.Designer.cs",
+              "RelativeDocumentMoniker": "Metro App\\Reciept generation.Designer.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Reciept generation.Designer.cs",
+              "RelativeToolTip": "Metro App\\Reciept generation.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:14:16.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Map.cs",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Map.cs",
+              "RelativeDocumentMoniker": "Metro App\\Map.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Map.cs",
+              "RelativeToolTip": "Metro App\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:52:45.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Welcome.Designer.cs",
+              "DocumentMoniker": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Welcome.Designer.cs",
+              "RelativeDocumentMoniker": "Metro App\\Welcome.Designer.cs",
+              "ToolTip": "D:\\University\\DSA Lab\\VStudio\\DSA Project\\Metro App\\Metro App\\Metro App\\Welcome.Designer.cs",
+              "RelativeToolTip": "Metro App\\Welcome.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:23:38.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
